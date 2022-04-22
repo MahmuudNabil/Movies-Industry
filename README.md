@@ -16,6 +16,7 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
   <li> make cleaning on data </li>
   <li> create csv file with new cleaned data </li>
   <li> Make dashboard on Power BI with new csv file   </li>
+  https://app.powerbi.com/groups/me/reports/fc482383-f625-436c-8417-ef3adcb98f00?ctid=3399e0b1-6537-4820-8278-6a4a3194dcb8&pbi_source=linkShare&bookmarkGuid=df9fea6e-04ec-475c-931b-1d7f8e8f2053
 </ul>
 
 
